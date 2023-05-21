@@ -1,0 +1,190 @@
+.nav{
+    height: 3rem;
+    background-color: rgb(255, 255, 255);
+}
+
+.nome{
+    font-size: 1.5rem;
+    color: rgb(88, 77, 77);
+    margin-left: 2rem;
+    margin-top: 0.2rem;
+    user-select: none;
+}
+
+.nome2{
+    color: rgb(47, 123, 221);
+}
+
+.home{
+    margin-top: 0.7rem;
+    margin-left: 3rem;
+    color: rgb(47, 123, 221);
+    user-select: none;
+    text-decoration: none;
+}
+
+.ajuda{
+    margin-top: 0.7rem;
+    margin-left: 3rem;
+    color: rgb(80, 77, 77);
+    user-select: none;
+}
+
+.ajuda:hover{
+    font-size: 1.5rem;
+    margin-top: 0.2rem;
+    margin-left: 2.2rem;
+    transition: 0.5s;
+    text-decoration: none;
+    color: rgb(47, 123, 221);
+}
+
+.traço{   
+width: 100vw;
+height: 0.5rem;
+background-color: rgb(47, 123, 221);
+}
+
+.azul{
+    width: 55vw;
+    height: 100vh;
+    background-image: linear-gradient(cyan, dodgerblue, blue);
+    margin-top: 0;
+}
+
+.somos{
+    color: white;
+    font-size: 4rem;
+    margin-left: 3rem;
+}
+
+.dentro{
+    margin-top: 8rem;
+    position: absolute;
+}
+
+.inside{
+    margin-top: 15rem;
+    position: absolute;
+    margin-left: 3rem;
+
+}
+
+.have{
+    font-size: 2rem;
+    color: white;
+
+}
+
+.add{
+    margin-top: 0.7rem;
+    color: rgb(80, 77, 77);
+    margin-left: 27rem;
+    position: absolute;
+}
+
+.todo{
+    display: flex;
+}
+
+.resto{
+    width: 45vw;
+    height: 100vh;
+}
+
+.pergunta1{
+    background-color: rgb(255, 255, 255);
+    width: 17rem;
+    margin-top: 2rem;
+}
+
+.letra{
+    font-size: 2rem;
+}
+
+.enter{
+    margin-top: 1.5rem;
+    border-radius: 30px;
+    width: 16rem;
+    height: 3rem;
+    background-color: rgb(255, 255, 255);
+    color: rgb(47, 123, 221);
+    border: rgb(47, 123, 221) solid;
+}
+
+.enter:hover{
+    background-color: rgb(47, 123, 221);
+    color: white;
+    transition: 0.5s;
+    cursor: pointer;
+    border: rgb(27, 95, 184) solid;
+}
+
+.pergunta2{
+    background-color: rgb(255, 255, 255);
+    width: 21rem;
+    margin-top: 2rem;
+
+}
+
+.letras{
+    font-size: 2rem;
+}
+
+.create{
+    margin-top: 1.5rem;
+    border-radius: 30px;
+    width: 16rem;
+    height: 3rem;
+    background-color: rgb(255, 255, 255);
+    color: rgb(47, 123, 221);
+    border: rgb(47, 123, 221) solid;
+}
+
+.create:hover{
+    background-color: rgb(47, 123, 221);
+    color: white;
+    transition: 0.5s;
+    cursor: pointer;
+    border: rgb(27, 95, 184) solid;
+}
+
+.sep{
+    background-color: rgb(47, 123, 221);
+    width: 20rem;
+    margin-top: 2rem;
+}
+
+.int{
+    margin-top: 22rem;
+    width: 30rem;
+    margin-left: 3rem;
+}
+
+.gid{
+    font-size: 1.5rem;
+    color: white;
+    
+}
+
+.siga{
+    background-color: rgb(255, 255, 255);
+    width: 14rem;
+    margin-top: 2.5rem;
+}
+
+.word{
+    font-size: 1.2rem;
+    color: black;
+}
+
+.rede{
+    margin-top: 1rem;
+    font-size: 1.3rem;
+    color: rgb(0, 162, 255);
+}
+
+.group{
+    width: 10rem;
+    height: 7rem;
+}
